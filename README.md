@@ -11,7 +11,17 @@ I'm a Computer Science student passionate about **Backend Development** and buil
 - 🎯 Goal: Become a professional **Software Engineer / Java Backend Developer**
 
 ---
+## 📢 Notice
 
+Some of my previous repositories are temporarily unavailable due to the
+suspension of my previous GitHub accounts.
+
+I'm currently rebuilding my portfolio here and will gradually re-upload
+my previous projects.
+
+Thank you for your understanding! 🙏
+---
+...
 ## 🛠️ Tech Stack
 
 ### Backend
