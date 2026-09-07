@@ -229,12 +229,16 @@ My goal is to become a strong Software Engineer, starting from solid Backend fun
 
 <div align="center">
 
-<a href="https://github.com/Congvinh2005">
+<a href="https://github.com/Daovinh05">
   <img src="https://img.shields.io/badge/🐙_GITHUB-DAOVINH05-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:vanxuank69@gmail.com">
+<a href="mailto:daovinhgm2005@gmail.com">
   <img src="https://img.shields.io/badge/📧_EMAIL-DAOVINHGM2005%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="mailto:vinh74dctt22119@st.utt.edu.vn">
+  <img src="https://img.shields.io/badge/📧_UTT_EMAIL-VINH74DCTT22119%40ST.UTT.EDU.VN-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/>
