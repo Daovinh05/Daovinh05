@@ -21,7 +21,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 👨‍💼 Professional Summary
-I am Đào Văn Vinh, a Computer Science student at University of Transport Technology (UTT), interested in building practical software systems and continuously improving my engineering skills.
+I am Đào Văn Vinh, a Information Technology student at University of Transport Technology (UTT), interested in building practical software systems and continuously improving my engineering skills.
 
 💻 My main direction is Backend Development with Java, especially Spring Boot for building RESTful APIs, business logic, and database-driven applications.
 🤖 I also have hands-on experience with Python, AI, and Computer Vision through academic and personal projects.
