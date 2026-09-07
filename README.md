@@ -4,7 +4,7 @@
 
 <h1>Hi there, I'm Đào Văn Vinh <img src="https://media.giphy.com/media/hvRJLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3>🚀 Software Engineer Student | Java & Spring Boot | AI & Computer Vision | UTT</h3>
+<h3>🚀 Software Engineer Student | Java & Spring Boot | Information Technology | UTT</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+Development+with+Java+%26+Spring+Boot;Building+real-world+software+projects;Passionate+about+AI+%26+Computer+Vision;Always+Learning+%26+Building" alt="Typing SVG" />
 
@@ -155,13 +155,13 @@ My goal is to become a strong Software Engineer, starting from solid Backend fun
 
 <div align="center">
 
-✅ Goal	📈 Progress
-Java Core & OOP fundamentals	🟩🟩🟩🟩🟨 Strong
-Building RESTful backend APIs	🟩🟩🟩🟩🟨 Strong
-Database design & SQL	🟩🟩🟩🟨⬜ Intermediate
-Spring Boot application development	🟩🟩🟩🟨⬜ Intermediate
-Software Architecture & System Design	🟩🟩🟨⬜⬜ Learning
-</div>
+| ✅ Goal | 📈 Progress |
+|---|---|
+| Java Core & OOP fundamentals | 🟩🟩🟩🟩🟨 Strong |
+| Building RESTful backend APIs | 🟩🟩🟩🟩🟨 Strong |
+| Database design & SQL | 🟩🟩🟩🟨⬜ Intermediate |
+| Spring Boot application development | 🟩🟩🟩🟨⬜ Intermediate |
+| Software Architecture & System Design | 🟩🟩🟨⬜⬜ Learning |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -221,7 +221,7 @@ Software Architecture & System Design	🟩🟩🟨⬜⬜ Learning
 
 <br/><br/>
 
-"Code with clarity. Build with purpose. Learn continuously."
+"Keep learning. Keep building. Keep improving."
 
 <br/>
 
