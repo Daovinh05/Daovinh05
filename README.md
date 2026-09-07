@@ -17,6 +17,18 @@
 <img src="https://img.shields.io/badge/Backend-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Framework-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/AI-Computer%20Vision-FF6F00?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/University-UTT-FF6B35?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 
 </div>
+---
+## 📢 Notice
+
+Some of my previous repositories are temporarily unavailable due to the
+suspension of my previous GitHub accounts.
+
+I'm currently rebuilding my portfolio here and will gradually re-upload
+my previous projects.
+
+Thank you for your understanding! 🙏
+---
+...
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
