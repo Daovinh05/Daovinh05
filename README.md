@@ -1,61 +1,77 @@
-Library
-/
-README.md
-
-
 👋 Xin chào, tôi là Đào Văn Vinh
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Backend+Developer+%7C+Java+%26+Spring+Boot;Full-Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Always+Learning+%26+Building" /> </p>
 
-<p align="center"> <a href="https://github.com/Congvinh2005"> <img src="https://img.shields.io/github/followers/Congvinh2005?style=for-the-badge&logo=github&label=FOLLOWERS" /> </a> <a href="https://komarev.com/ghpvc/?username=Congvinh2005"> <img src="https://komarev.com/ghpvc/?username=Congvinh2005&style=for-the-badge&label=PROFILE+VIEWS" /> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Backend+Developer+%7C+Java+%26+Spring+Boot;Full-Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Always+Learning+%26+Building" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Congvinh2005">
+    <img src="https://img.shields.io/github/followers/Congvinh2005?style=for-the-badge&logo=github&label=FOLLOWERS" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Congvinh2005&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
 👨‍💻 Giới thiệu
-Tôi là Đào Văn Vinh, sinh viên Công nghệ thông tin tại Đại học Công nghệ Giao thông Vận tải (UTT).
 
-Tôi định hướng phát triển theo con đường Software Engineer, tập trung vào Backend Development, đặc biệt là Java & Spring Boot. Bên cạnh đó, tôi có kinh nghiệm thực hành với Python, FastAPI, Flask, React, Next.js, PostgreSQL, MySQL, Docker và các công nghệ liên quan đến AI / Computer Vision.
+Đào Văn Vinh — Sinh viên Công nghệ thông tin tại Đại học Công nghệ Giao thông Vận tải (UTT).
 
-Tôi thích học thông qua việc xây dựng các dự án thực tế, từ thiết kế database, xây dựng API, phát triển frontend đến containerization và triển khai hệ thống.
+💻 Định hướng: Software Engineer / Backend Developer
 
-🎯 Mục tiêu: Trở thành một Software Engineer có nền tảng vững về Backend, Database và Software Architecture, đồng thời có khả năng xây dựng những hệ thống giải quyết các bài toán thực tế.
+☕ Tập trung: Java & Spring Boot
 
-🏆 Thành tích nổi bật
+🌐 Thực hành: Python, FastAPI, Flask, React, Next.js
+
+🗄️ Database: PostgreSQL, MySQL, Redis
+
+🐳 DevOps: Docker & Docker Compose
+
+🤖 Quan tâm: AI & Computer Vision
+
+🎯 Mục tiêu: Xây dựng nền tảng vững về Backend, Database và Software Architecture, hướng tới phát triển các hệ thống thực tế.
+
+🏆 Thành tích
+
 🥇 First Prize — AI for Social Challenge 2025
-Đạt Giải Nhất tại cuộc thi AI for Social Challenge 2025 của UTT.
 
-Cuộc thi giúp tôi có cơ hội áp dụng kiến thức về AI, Computer Vision và Software Development để xây dựng giải pháp cho một bài toán thực tế.
+Đạt Giải Nhất tại cuộc thi AI for Social Challenge 2025 – UTT.
+
+Áp dụng AI, Computer Vision và Software Development để xây dựng giải pháp cho bài toán thực tế.
 
 💼 Kinh nghiệm
+
 Odoo Developer Intern — ODIN TECH
+
 05/2026 – 07/2026
 
-Trong thời gian thực tập, tôi có cơ hội làm việc với Odoo 16 và tìm hiểu cách phát triển các hệ thống doanh nghiệp.
+Làm việc với Odoo 16 và phát triển hệ thống doanh nghiệp.
 
-Công việc & kiến thức thực hành:
+🐍 Phát triển Custom Odoo Module bằng Python
 
-Phát triển Custom Odoo Module bằng Python.
+📚 Xây dựng Library Management Module
 
-Xây dựng Library Management Module.
+🗄️ Làm việc với PostgreSQL & Odoo ORM
 
-Thiết kế và xử lý các chức năng CRUD.
+🎨 Tùy chỉnh List View, Form View & QWeb
 
-Làm việc với Odoo ORM và PostgreSQL.
+📊 Xây dựng Dashboard & Statistics
 
-Tùy chỉnh List View / Form View.
+⚙️ Sử dụng JavaScript để tùy chỉnh chức năng
 
-Xây dựng Dashboard và Statistics.
+🐳 Chạy môi trường với Docker / Docker Compose
 
-Tùy chỉnh giao diện bằng QWeb và JavaScript.
-
-Chạy và quản lý môi trường Odoo bằng Docker / Docker Compose.
-
-Debug và xử lý các vấn đề liên quan đến application, database và environment.
-
-💡 Trải nghiệm này giúp tôi hiểu rõ hơn về quy trình phát triển một hệ thống Enterprise Software và cách các thành phần Backend, Database, UI và Business Logic kết hợp với nhau.
+💡 Có kinh nghiệm thực tế với Backend, Database, Business Logic và Enterprise Software.
 
 🛠️ Công nghệ sử dụng & kỹ năng
-<table> <tr> <td width="33%" valign="top">
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 💻 Backend
-<p> <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,flask" /> </p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,flask" />
+</p>
 
 Java · Spring Boot
 Spring MVC · Spring Security
@@ -67,7 +83,10 @@ JDBC · Maven
 <td width="33%" valign="top">
 
 🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" /> </p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+</p>
 
 React · Next.js
 TypeScript · JavaScript
@@ -79,19 +98,27 @@ REST API Integration
 <td width="33%" valign="top">
 
 🗄️ Database
-<p> <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" /> </p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+</p>
 
 MySQL · PostgreSQL
 Redis · SQL
 Database Design
 SQLAlchemy
 
-</td> </tr>
+</td>
+</tr>
 
-<tr> <td width="33%" valign="top">
+<tr>
+<td width="33%" valign="top">
 
 🤖 AI & Computer Vision
-<p> <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow" /> </p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow" />
+</p>
 
 Python · OpenCV
 YOLOv8 · MediaPipe
@@ -104,7 +131,10 @@ Image Processing
 <td width="33%" valign="top">
 
 🐳 DevOps & Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman" /> </p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman" />
+</p>
 
 Git · GitHub
 Docker · Docker Compose
@@ -116,129 +146,135 @@ IntelliJ IDEA · Postman
 <td width="33%" valign="top">
 
 ⚙️ Others
-<p> <img src="https://skillicons.dev/icons?i=android,php" /> </p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=android,php" />
+</p>
 
 Odoo 16 · QWeb
 Android · Java
 PHP · Retrofit
 RxJava3 · WebSocket
 
-</td> </tr> </table>
+</td>
+</tr>
+</table>
 
 🚀 Dự án tiêu biểu
-<table> <tr> <td width="50%" valign="top">
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 🚦 AI Traffic Monitoring System
+
 Python · Flask · YOLOv8 · OpenCV · MediaPipe · Dlib · EasyOCR · Docker · Leaflet
 
-Hệ thống giám sát giao thông ứng dụng AI và Computer Vision.
+Hệ thống giám sát giao thông ứng dụng AI & Computer Vision.
 
-Điểm nổi bật
-Object Detection với YOLOv8.
+Object Detection với YOLOv8
 
-Xử lý hình ảnh và video.
+Xử lý hình ảnh / video
 
-OCR với EasyOCR.
+OCR với EasyOCR
 
-Face-related processing với Dlib / MediaPipe.
+MediaPipe / Dlib
 
-REST API bằng Flask.
+REST API với Flask
 
-Dashboard và bản đồ với Leaflet.
+Dashboard & bản đồ với Leaflet
 
-Docker hóa hệ thống.
+Docker hóa hệ thống
 
 </td>
 
 <td width="50%" valign="top">
 
 ⚔️ Quiz Battle
+
 Next.js · React · TypeScript · FastAPI · PostgreSQL · Redis · WebSocket
 
 Ứng dụng quiz battle hỗ trợ real-time communication.
 
-Điểm nổi bật
-Frontend với Next.js / React.
+Frontend với Next.js / React
 
-Backend API với FastAPI.
+Backend API với FastAPI
 
-PostgreSQL làm database.
+PostgreSQL + SQLAlchemy
 
-Redis cho các chức năng hỗ trợ real-time.
+Redis
 
-WebSocket cho giao tiếp thời gian thực.
+WebSocket
 
-SQLAlchemy cho ORM.
+Docker cho môi trường development
 
-Docker cho môi trường development.
+</td>
+</tr>
 
-</td> </tr>
-
-<tr> <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 📚 Library Management System
+
 Odoo 16 · Python · PostgreSQL · JavaScript · QWeb · Docker
 
-Custom module quản lý thư viện được xây dựng trên Odoo 16.
+Custom module quản lý thư viện trên Odoo 16.
 
-Chức năng
-Quản lý sách.
+Quản lý sách / độc giả
 
-Quản lý độc giả.
+Quản lý mượn / trả
 
-Quản lý mượn / trả.
+Quản lý số lượng
 
-Quản lý số lượng.
+Dashboard & Statistics
 
-Dashboard & Statistics.
+List View / Form View
 
-List View / Form View.
+QWeb & Custom JavaScript
 
-QWeb & Custom JavaScript.
-
-PostgreSQL & Docker.
+PostgreSQL & Docker
 
 </td>
 
 <td width="50%" valign="top">
 
 🛒 E-Commerce / Phone Store
+
 Android · Java · PHP · MySQL · Retrofit · RxJava3
 
-Ứng dụng bán hàng trên Android kết nối với Backend API.
+Ứng dụng bán hàng trên Android kết nối Backend API.
 
-Công nghệ
-Android / Java.
+Android / Java
 
-PHP Backend.
+PHP Backend
 
-MySQL.
+MySQL
 
-REST API.
+REST API
 
-Retrofit.
+Retrofit
 
-RxJava3.
+RxJava3
 
-Dự án giúp tôi hiểu rõ luồng:
+Mobile App → API → Backend → Database
 
-Mobile App → REST API → Backend → Database
-
-</td> </tr> </table>
+</td>
+</tr>
+</table>
 
 📚 Hiện đang học
-<table> <tr> <td width="50%" valign="top">
 
-☕ Backend & Java
+<table>
+<tr>
+<td width="50%" valign="top">
+
+☕ Java & Backend
+
 Java Core & OOP
 
-Collections
+Collections & Exception Handling
 
-Exception Handling
-
-Spring Boot
-
-Spring MVC
+Spring Boot / Spring MVC
 
 REST API
 
@@ -253,6 +289,7 @@ Database Integration
 <td width="50%" valign="top">
 
 🏗️ Software Engineering
+
 Clean Code
 
 SOLID
@@ -269,11 +306,14 @@ Software Architecture
 
 System Design
 
-</td> </tr>
+</td>
+</tr>
 
-<tr> <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 🐳 Infrastructure
+
 Docker
 
 Docker Compose
@@ -293,6 +333,7 @@ Application Deployment
 <td width="50%" valign="top">
 
 🤖 AI
+
 Computer Vision
 
 Object Detection
@@ -305,41 +346,99 @@ Deep Learning fundamentals
 
 AI Applications
 
-</td> </tr> </table>
+</td>
+</tr>
+</table>
 
 🎯 Mục tiêu nghề nghiệp
-Mục tiêu của tôi là phát triển từ một Software Engineering Student thành một Software Engineer có khả năng không chỉ viết code mà còn hiểu cách một hệ thống được thiết kế, vận hành và mở rộng.
 
-🎯 Định hướng	📌 Trọng tâm
-☕ Backend	Java · Spring Boot · REST API
-🗄️ Database	SQL · PostgreSQL · MySQL
-🏗️ Engineering	OOP · SOLID · Design Patterns
-🧩 Architecture	Layered Architecture · System Design
-🐳 DevOps	Docker · Linux · Deployment
-🤖 AI	Computer Vision · AI Applications
-🧠 Problem Solving	Algorithms · Data Structures
-🌱 Những lĩnh vực tôi quan tâm
+Tôi muốn phát triển từ Software Engineering Student thành một Software Engineer có khả năng xây dựng hệ thống từ Backend đến Database và Deployment.
+
+🎯 Định hướng
+
+📌 Trọng tâm
+
+☕ Backend
+
+Java · Spring Boot · REST API
+
+🗄️ Database
+
+SQL · PostgreSQL · MySQL
+
+🏗️ Engineering
+
+OOP · SOLID · Design Patterns
+
+🧩 Architecture
+
+Layered Architecture · System Design
+
+🐳 DevOps
+
+Docker · Linux · Deployment
+
+🤖 AI
+
+Computer Vision · AI Applications
+
+🧠 Problem Solving
+
+Algorithms · Data Structures
+
+🌱 Lĩnh vực quan tâm
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/☕_Java-Backend-007396?style=for-the-badge" /> <img src="https://img.shields.io/badge/🌱_Spring_Boot-Backend-6DB33F?style=for-the-badge" /> <img src="https://img.shields.io/badge/🗄️_Database-SQL-336791?style=for-the-badge" /> <img src="https://img.shields.io/badge/🏗️_Software_Architecture-Learning-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/☕_Java-Backend-007396?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌱_Spring_Boot-Backend-6DB33F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🗄️_Database-SQL-336791?style=for-the-badge" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/🐳_Docker-DevOps-2496ED?style=for-the-badge" /> <img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-Learning-FF6F00?style=for-the-badge" /> <img src="https://img.shields.io/badge/👁️_Computer_Vision-Projects-5C6BC0?style=for-the-badge" /> <img src="https://img.shields.io/badge/🧠_Problem_Solving-Daily-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏗️_Software_Architecture-Learning-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🐳_Docker-DevOps-2496ED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖_AI-Computer_Vision-FF6F00?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/🧠_Problem_Solving-Daily-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔌_REST_API-Backend-009688?style=for-the-badge" />
 
 </p>
 
 📊 GitHub Statistics
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Congvinh2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Congvinh2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Congvinh2005&theme=tokyonight&hide_border=true" /> </p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Congvinh2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Congvinh2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Congvinh2005&theme=tokyonight&hide_border=true" />
+</p>
 
 🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/Congvinh2005/Congvinh2005/output/github-snake.svg" /> </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Congvinh2005/Congvinh2005/output/github-snake.svg" />
+</p>
 
 📫 Liên hệ
-<p align="center"> <a href="https://github.com/Congvinh2005"> <img src="https://img.shields.io/badge/GitHub-Congvinh2005-181717?style=for-the-badge&logo=github" /> </a> <a href="mailto:vanxuank69@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
-<p align="center"> <b>Thanks for visiting my profile! 🚀</b> </p>
+<p align="center">
+  <a href="https://github.com/Congvinh2005">
+    <img src="https://img.shields.io/badge/GitHub-Congvinh2005-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:vanxuank69@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p align="center"> <i>Keep learning. Keep building. Keep improving.</i> </p>
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep improving.</i>
+</p>
