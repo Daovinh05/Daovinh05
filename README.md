@@ -220,7 +220,9 @@ My goal is to become a strong Software Engineer, starting from solid Backend fun
 ✨ Personal Motto
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" alt="Dev Quote" />
+### *“Success is walking from failure to failure with no loss of enthusiasm.”*
+
+**— Winston Churchill**
 
 <br/><br/>
 
