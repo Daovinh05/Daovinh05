@@ -76,13 +76,16 @@ The competition gave me the opportunity to apply AI, Computer Vision and Softwar
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🗓️ Career Timeline
+🗓️ Timeline
 <div align="center">
 
-Time	Organization	Position
-05/2026 – 07/2026	ODIN TECH	Odoo Developer Intern
-2025	UTT	First Prize — AI for Social Challenge
+| Time | Organization | Position |
+|---|---|---|
+| 06/2025 | UTT | First Prize — AI for Social Challenge 2025 |
+| 10/2025 | UTT | UTT Awards 2025 |
+| 04/2026 – 07/2026 | ODIN TECH | Odoo Developer Intern |
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
