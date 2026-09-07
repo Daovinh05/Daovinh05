@@ -177,59 +177,84 @@ My goal is to become a strong Software Engineer, starting from solid Backend fun
 <p align="center"> <img src="https://img.shields.io/badge/☕%20Java%20%26%20Spring%20Boot-Core%20Focus-36BCF7?style=flat-square" /> <img src="https://img.shields.io/badge/🏗️%20Software%20Architecture-Learning-6DB33F?style=flat-square" /> <img src="https://img.shields.io/badge/⚡%20Backend%20Development-Enthusiast-FF6B35?style=flat-square" /> <img src="https://img.shields.io/badge/🗄️%20Database%20Design-Practicing-CC2927?style=flat-square" /> <img src="https://img.shields.io/badge/🤖%20AI%20%26%20Computer%20Vision-Project%20Experience-9B59B6?style=flat-square" /> <img src="https://img.shields.io/badge/🧠%20Problem%20Solving-Daily-FFD700?style=flat-square" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-📊 GitHub Stats & Activity
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Congvinh2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Congvinh2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
-
-</div>
+## 📊 GitHub Stats & Activity
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Congvinh2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Congvinh2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Congvinh2005&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Congvinh2005&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph" />
 
 </div>
 
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Congvinh2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="98%" alt="GitHub Trophies" /> </div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🏆 GitHub Trophies
 
-🐍 Contribution Snake
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Congvinh2005/Congvinh2005/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Congvinh2005/Congvinh2005/output/github-snake.svg" /> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Congvinh2005/Congvinh2005/output/github-snake.svg" /> </picture> </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-📫 Contact Me
 <div align="center">
 
-
-
+<img src="https://github-profile-trophy.vercel.app/?username=Congvinh2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="98%" alt="GitHub Trophies" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-✨ Personal Motto
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Congvinh2005/Congvinh2005/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Congvinh2005/Congvinh2005/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Congvinh2005/Congvinh2005/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+<a href="https://github.com/Congvinh2005">
+  <img src="https://img.shields.io/badge/🐙_GITHUB-DAOVINH05-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:vanxuank69@gmail.com">
+  <img src="https://img.shields.io/badge/📧_EMAIL-DAOVINHGM2005%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/💼_LINKEDIN-ĐÀO_VĂN_VINH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## ✨ Personal Motto
+
 <div align="center">
 
 ### *“Success is walking from failure to failure with no loss of enthusiasm.”*
 
 **— Winston Churchill**
-
-<br/><br/>
-
-"Keep learning. Keep building. Keep improving."
-
-<br/>
-
-<img src="https://img.shields.io/badge/Thanks%20for%20visiting!-⭐%20Star%20if%20you%20like%20it-FFD700?style=for-the-badge" />
 
 </div>
